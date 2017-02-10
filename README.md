@@ -12,3 +12,5 @@ The workshop introduces Apache Spark, a platform to process distributed data wit
 1. [Apache Spark Documentation](http://spark.apache.org/documentation.html)
 2. [Spark - A visual guide to the API](http://training.databricks.com/visualapi.pdf)
 3. [Scala Documentation](http://docs.scala-lang.org/index.html)
+4. [Compilation of various topics from *databricks* workshop](http://training.databricks.com/workshop/itas_workshop.pdf)
+
