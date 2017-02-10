@@ -8,6 +8,7 @@ The workshop introduces Apache Spark, a platform to process distributed data wit
 3. Core concepts of graph analysis and some of the graph algorithms provided by the GraphX library. 
 
 ## Resources
+1. [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](http://www-bcf.usc.edu/~minlanyu/teach/csci599-fall12/papers/nsdi_spark.pdf)
 1. [Apache Spark Documentation](http://spark.apache.org/documentation.html)
 2. [Spark - A visual guide to the API](http://training.databricks.com/visualapi.pdf)
 3. [Scala Documentation](http://docs.scala-lang.org/index.html)
