@@ -32,3 +32,9 @@ else:
           /_/
     """ % sc.version)
 
+if not 'sqlCtx' in vars():
+    sqlCtx = SQLContext(sc)
+print 'Spark Context available as `sc`'
+print 'Spark SQL Context (%s) available as `sqlCtx`'%str(type(sqlCtx))
+print "Monitor this application at http://arc.insight.gsu.edu:8088/proxy/"+sc.applicationId
+
